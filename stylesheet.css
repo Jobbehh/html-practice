@@ -1,0 +1,19 @@
+body {
+    background-color:thistle
+  }
+  h2 {
+    color:saddlebrown;
+  }
+  h1 {
+      color:springgreen
+  }
+  p {
+      color:navy
+  }
+  p {
+      font-weight: 600;
+  }
+
+  ul{
+      color:red
+  }
